@@ -4,11 +4,10 @@
  * file COPYING or http://www.opensource.org/licenses/mit-license.php.*
  **********************************************************************/
 
-#ifndef SECP256K1_BENCH_H
-#define SECP256K1_BENCH_H
+#ifndef _SECP256K1_BENCH_H_
+#define _SECP256K1_BENCH_H_
 
 #include <stdio.h>
-#include <string.h>
 #include <math.h>
 #include "sys/time.h"
 
@@ -64,19 +63,4 @@ void run_benchmark(char *name, void (*benchmark)(void*), void (*setup)(void*), v
     printf("us\n");
 }
 
-int have_flag(int argc, char** argv, char *flag) {
-    char** argm = argv + argc;
-    argv++;
-    if (argv == argm) {
-        return 1;
-    }
-    while (argv != NULL && argv != argm) {
-        if (strcmp(*argv, flag) == 0) {
-            return 1;
-        }
-        argv++;
-    }
-    return 0;
-}
-
-#endif /* SECP256K1_BENCH_H */
+#endif
