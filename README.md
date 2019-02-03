@@ -5,13 +5,13 @@
 
 Crucial assets such as Ownership, Real Estate, Stocks are difficult to verify and physically transfer.Tokenization provides a faster way to solve this problem. A blockchain network is used to settle trades in a real-time manner saving time and locked up capital.
 
-##Assumptions
+## Assumptions
 
 Asset exists.
 The lister is the current owner of the asset.
 Note: These assumptions are just for the hackathon purpose, we can design and develop ways to validate these assumptions.
 
-##Our Solution
+## Our Solution
 
 We developed a blockchain-based Tokenization platform to liquidate assets like Stocks, Pre-IPO Equities, Land and Real Estate, Gold, etc. 
  
@@ -54,11 +54,11 @@ Our project's main aim is to provide faster liquidity of assets, thereby ensurin
 *Trading Intangible/Tangible/Fungible/Non-Fungible Assets
 *ICOs  And many many more...
 
-##Future Scope
+## Future Scope
 
 *Verification of asset ownership through governmental bodies or organisations responsible to verify whether the asset coming into the platform matches with the current user.
 
-##Conclusion
+## Conclusion
 
 Tokenization promises to change how broad asset classes are bought and sold, democratizing the process of owning everything from ideas to paintings. Blockchains offer a streamlined alternative to traditional paper markets and a unique way of sharing ownership of unique objects like painting or real estate.
 Via the blockchain, ownership is slowly taking on new meaning.
