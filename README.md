@@ -21,7 +21,7 @@ Imagine, you can partly own/invest in a piece of land for just $100 or $10...
   
 Our project's main aim is to provide faster liquidity of assets, thereby ensuring quick settlement of the transactions and a secure "Ownership Ledger"
 
-![Architecture Diagram](Screenshots/architecture.jpg)
+![Architecture Diagram](Screenshots/architecture.JPG)
 
 ## Features:
 
@@ -34,7 +34,11 @@ Our project's main aim is to provide faster liquidity of assets, thereby ensurin
 * Independent system. All processes backed by Smart Contracts
 
 ![Analysis](Screenshots/admindashboard.JPG)
+
+
 ![Portal](Screenshots/page1.JPG)
+
+
 ![Map](Screenshots/map.JPG)
 
 
